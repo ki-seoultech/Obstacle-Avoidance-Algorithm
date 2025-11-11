@@ -1,6 +1,6 @@
 # 🤖 Obstacle Avoidance & Path Tracking Algorithm
 
-**Author:** Ki Hyunbin (Seoul National University of Science & Technology)  
+**Author:** Ki Hyunbin (Seoul tech National University )  
 **Language:** Arduino (C/C++)  
 **Project Type:** 2nd-year Term Project  
 
