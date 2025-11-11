@@ -35,7 +35,7 @@ if (block_distance_w <= 5)  // 장애물을 만난다면
       break;
   }
 
-//장애물 피하는 알고리즘
+
 if (block_distance_w <= 5)  // 장애물을 만난다면
 {
       controlKey = 's';
